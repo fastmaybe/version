@@ -6,5 +6,4 @@ package com.git.version.control;
  */
 public class VersionOne {
     private String name;
-    private String age;
 }
