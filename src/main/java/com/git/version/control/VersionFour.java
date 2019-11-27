@@ -5,5 +5,4 @@ package com.git.version.control;
  * @Date: 2019/11/27 11:34
  */
 public class VersionFour {
-    private String name;
 }
